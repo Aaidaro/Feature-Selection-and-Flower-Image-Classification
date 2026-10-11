@@ -1,4 +1,4 @@
-# Machine Learning: Feature Selection and Flower Image Classification
+# Feature Selection and Flower Image Classification
 
 Two experiments from a machine learning coursework assignment explore (1) greedy feature selection for a Gaussian Naive Bayes classifier and (2) multiclass flower classification using fully connected networks and pretrained convolutional networks.
 
